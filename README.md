@@ -969,6 +969,7 @@ algorithms, knowledgebase and AI technology.
 * [EXIFEditor.io](https://exifeditor.io) - In-browser EXIF image metadata editor, viewer, and analysis tool.
 * [ExifLooter](https://github.com/aydinnyunus/exiflooter)
 * [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool)
+* [Metagoofil](https://github.com/laramies/metagoofil) — A metadata extraction tool that scans public documents (PDF, DOC, PPT, XLS) to gather usernames, software versions, and file paths. *Use case:* Ideal for OSINT investigations to reveal hidden organizational data from published files.
 * [Forensically](https://29a.ch/photo-forensics/)
 * [FotoForensics](http://www.fotoforensics.com)
 * [GeoSpy](https://geospy.web.app/) - AI based image osint tool
